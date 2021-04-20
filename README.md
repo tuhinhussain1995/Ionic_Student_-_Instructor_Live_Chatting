@@ -9,7 +9,7 @@ This is a Ionic Mobile Application built for Student and Instructor live chattin
 Part-1: https://www.linkedin.com/posts/tuhin95_django-html5-css3-activity-6720274407685812224-iTtK
 #
 
-## Student App UI
+# Student App UI
 ![1](https://user-images.githubusercontent.com/50451175/115449793-ba7f0480-a24d-11eb-8c1a-e70eaef7836c.PNG)
 ![2](https://user-images.githubusercontent.com/50451175/115449798-bbb03180-a24d-11eb-9707-84ec92943dfd.PNG)
 ![3](https://user-images.githubusercontent.com/50451175/115449799-bc48c800-a24d-11eb-979e-62d5e8049abc.PNG)
@@ -37,7 +37,7 @@ Part-1: https://www.linkedin.com/posts/tuhin95_django-html5-css3-activity-672027
 <br/>
 <br/>
 
-## Instructor App UI
+# Instructor App UI
 ![1](https://user-images.githubusercontent.com/50451175/115450093-15b0f700-a24e-11eb-9afd-8ba59223818d.PNG)
 ![2](https://user-images.githubusercontent.com/50451175/115450098-16e22400-a24e-11eb-9f4b-677221acf70d.PNG)
 ![3](https://user-images.githubusercontent.com/50451175/115450099-16e22400-a24e-11eb-8a87-ed348b46fb7d.PNG)
