@@ -34,6 +34,9 @@ Part-1: https://www.linkedin.com/posts/tuhin95_django-html5-css3-activity-672027
 ![22](https://user-images.githubusercontent.com/50451175/115449832-c4086c80-a24d-11eb-9b1a-cb296750a240.PNG)
 ![23](https://user-images.githubusercontent.com/50451175/115449834-c4086c80-a24d-11eb-9581-a9dea6e6e65e.PNG)
 
+<br/>
+#
+
 ## Instructor App UI
 ![1](https://user-images.githubusercontent.com/50451175/115450093-15b0f700-a24e-11eb-9afd-8ba59223818d.PNG)
 ![2](https://user-images.githubusercontent.com/50451175/115450098-16e22400-a24e-11eb-9f4b-677221acf70d.PNG)
